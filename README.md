@@ -19,14 +19,20 @@ You only need [Node.js](https://nodejs.org/), recommended LTS version.
 2. Install dependencies
 
 ```
-> cd herrman-test
+> cd herrmann-test
 > npm install
 ```
 
-3. Start the server
+3. To start app in development mode
 
 ```
 > npm start
+```
+
+3. To build app for production
+
+```
+> npm run build
 ```
 
 4. Check if it works on: [http://localhost:3000](http://localhost:3000)
