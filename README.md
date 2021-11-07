@@ -2,7 +2,7 @@
 
 A simple react app to test your brain dominance using the studies of the researcher [Ned Herrmann](https://es.wikipedia.org/wiki/William_%22Ned%22_Herrmann).
 
-You can test this app by visit [my personal website](https://programadorweb.dev/herrmann/).
+You can [test this app here](https://authc0d3.github.io/herrmann-test).
 
 ## ✅ Requirements
 
