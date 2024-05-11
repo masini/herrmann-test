@@ -65,20 +65,16 @@ function Chart({ results, onReset }) {
         <canvas ref={canvasRef}></canvas>
         <div className="legend">
           <div>
-            <span className="blue"></span> A ({results.a}): Lógico, Analítico,
-            Hechos, Cuantitativo.
+            <span className="blue"></span> A ({results.a}): Logico, Analitico, Basato sui Fatti, Quantitativo.
           </div>
           <div>
-            <span className="green"></span> B ({results.b}): Organizador,
-            Secuencial, Planeador, Detallado
+            <span className="green"></span> B ({results.b}): Organizzatore, Ordinato, Pianificatore, Dettagliato
           </div>
           <div>
-            <span className="red"></span> C ({results.c}): Interpersonal,
-            Sentimientos, Estético, Emocional
+            <span className="red"></span> C ({results.c}): Interpersonale, Sentimentale, Estetico, Emozionale
           </div>
           <div>
-            <span className="yellow"></span> D ({results.d}): Holístico,
-            Intuitivo, Integrador, Sintetizador
+            <span className="yellow"></span> D ({results.d}): Olistico, Intuitivo, Integrativo, Sintetico
           </div>
         </div>
       </div>

@@ -1,3 +1,5 @@
+# Herrman Test App - versione con test in Italiano
+
 # ATTENZIONE, prima di fare build o start 
 
 ```

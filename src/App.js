@@ -39,7 +39,7 @@ function App() {
         {step > -1 && step < options.length && (
           <>
             <p style={{ marginBottom: "40px" }}>
-              Selecciona la palabra que más concuerda contigo:
+              Scegli la parola che meglio si accorda con te:
             </p>
             {options[step].map((op, i) => (
               <>
@@ -54,17 +54,14 @@ function App() {
         {step < 0 && (
           <div style={{ position: "relative", top: "-35px" }}>
             <p>
-              El <strong>test de Herrmann</strong> de dominancia cerebral se
-              basa en el modelo de los cuatro cuadrantes del mismo autor: Ned
-              Herrmann.
+              Il <strong>test di dominanza cerebrale di Herrmann</strong> si basa sul modello dei quattro quadranti dello stesso autore, Ned Herrmann.
             </p>
             <p style={{ marginBottom: "30px" }}>
-              ¿Qué parte domina tu mente? ¿Eres una persona más lógica o
-              emocional? ¡Descúbrelo!
+              Quale parte domina la tua mente? Sei una persona più logica o emotiva? Scoprilo!
             </p>
             <button type="button" onClick={handleStart}>
               <FontAwesomeIcon icon={faPlay} style={{ marginRight: "8px" }} />{" "}
-              Comenzar
+              Inizia il test
             </button>
           </div>
         )}

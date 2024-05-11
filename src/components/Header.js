@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <h2>
-        <img src={brain} alt="brain" /> Test de Herrmann
+        <img src={brain} alt="brain" /> Test di Herrmann
       </h2>
     </header>
   );
