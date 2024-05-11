@@ -1,3 +1,11 @@
+# ATTENZIONE, prima di fare build o start 
+
+```
+export NODE_OPTIONS=--openssl-legacy-provider
+```
+
+per errore di OpenSSL
+
 # Herrman Test App
 
 A simple react app to test your brain dominance using the studies of the researcher [Ned Herrmann](https://es.wikipedia.org/wiki/William_%22Ned%22_Herrmann).
