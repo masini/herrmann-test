@@ -2,7 +2,7 @@
   "name": "herrmann-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://masini.github.io/herrmann-test-luca/",
+  "homepage": "https://masini.github.io/herrmann-test-luca/build",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
